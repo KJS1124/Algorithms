@@ -1,7 +1,7 @@
 package search;
 /**
  * @author KJS1124
- * Time Complexity O(n^2)
+ * Time Complexity O(n)
  */
 public class LinearSearch {
 
