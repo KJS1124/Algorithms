@@ -3,7 +3,9 @@ package sorting;
 import java.util.Arrays;
 
 /**
- * @author KJS1124 Time Complexity O(n^2) Auxiliary Space: O(1)
+ * @author KJS1124 
+ * Time Complexity O(n^2) 
+ * Auxiliary Space: O(1)
  */
 public class ExtendedBubbleSort {
 
