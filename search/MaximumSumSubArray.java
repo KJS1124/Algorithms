@@ -1,8 +1,8 @@
 package search;
 /**
  * @author KJS1124
+ * Algorithm name: Kadane’s Algorithm
  * Time Complexity O(n)
- * Auxiliary Space: O(n)
  * Problem link http://www.spoj.com/problems/MAXSUMSU/
  */
 public class MaximumSumSubArray {
