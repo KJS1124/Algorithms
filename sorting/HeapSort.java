@@ -67,7 +67,7 @@ public class HeapSort {
 	public int[] sortIncreasingOrder(int arr[]) {
 		int heapSize = arr.length - 1;
 		arr = buildMaxHeap(arr);
-		Arrays.stream(arr).forEach(n->System.out.print(n+" "));
+		Arrays.stream(arr).forEach(n -> System.out.print(n + " "));
 		System.out.println();
 		for (int i = arr.length - 1; i > 0; i--) {
 			int temp = arr[0];
