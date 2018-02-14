@@ -11,7 +11,7 @@ public class ModularAirthmatic {
     }
 
     public int subtract(int a, int b) {
-        return ((a + mod - b % mod) + mod) mod;
+        return ((a % mod - b % mod) + mod) mod;
     }
 
     public int multiply(int a, int b) {
