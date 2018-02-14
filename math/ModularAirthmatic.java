@@ -1,3 +1,6 @@
+/**
+ * @author KJS1124
+ */
 public class ModularAirthmatic {
 
     int mod = 0;
